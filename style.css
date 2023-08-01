@@ -1,0 +1,20 @@
+body{
+    background-image: url(backgroundimage.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Handjet', cursive;
+}
+
+p{
+    text-align: center;
+   font-size:large;
+}
+
+ol{
+    text-align: center;
+    list-style: none;
+    font-size:large;
+}
